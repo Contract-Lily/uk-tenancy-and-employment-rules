@@ -8,6 +8,10 @@ A free, sourced reference of the statutory figures that matter in UK tenancy agr
 
 Every figure links to legislation.gov.uk or GOV.UK. The reference is maintained by [Contract Lily](https://contractlily.com), which checks UK tenancy agreements and employment contracts against these rules and returns a plain-English report. Contract Lily also publishes [plain-English guides](https://contractlily.com/guides) and [free calculators](https://contractlily.com/tools) for each topic.
 
+## Research
+
+The tenancy figures are analysed in *Statutory Controls on Private Residential Tenancy Terms in the Four UK Nations: A Comparative Review (2026)*, Contract Lily. DOI: [10.5281/zenodo.23688884](https://doi.org/10.5281/zenodo.23688884)
+
 ## Coverage
 
 | Topic | England | Wales | Scotland | Northern Ireland |

@@ -1,0 +1,366 @@
+{
+  "name": "UK tenancy and employment rules",
+  "updated": "2026-10-27",
+  "publisher": "Contract Lily (https://contractlily.com)",
+  "licence": "CC BY 4.0",
+  "note": "General information, not legal advice.",
+  "sections": {
+    "deposits": {
+      "title": "Tenancy deposits",
+      "rows": [
+        {
+          "nation": "England",
+          "deposit cap": "5 weeks' rent; 6 weeks' if annual rent is £50,000 or more",
+          "holding deposit": "1 week's rent",
+          "protection": "Approved scheme, with details to the tenant, within 30 days",
+          "sources": [
+            {
+              "title": "Tenant Fees Act 2019, Sch 1",
+              "url": "https://www.legislation.gov.uk/ukpga/2019/4/schedule/1/paragraph/2"
+            },
+            {
+              "title": "Housing Act 2004, s213",
+              "url": "https://www.legislation.gov.uk/ukpga/2004/34/section/213"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/tenancy-deposits-england"
+            }
+          ]
+        },
+        {
+          "nation": "Wales",
+          "deposit cap": "No cap unless regulations set one",
+          "holding deposit": "1 week's rent",
+          "protection": "Authorised scheme, with information to the contract-holder, within 30 days",
+          "sources": [
+            {
+              "title": "Renting Homes (Fees etc.) (Wales) Act 2019, Sch 1",
+              "url": "https://www.legislation.gov.uk/anaw/2019/2/schedule/1"
+            },
+            {
+              "title": "Renting Homes (Wales) Act 2016, s45",
+              "url": "https://www.legislation.gov.uk/anaw/2016/1/section/45"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/tenancy-deposits-wales"
+            }
+          ]
+        },
+        {
+          "nation": "Scotland",
+          "deposit cap": "2 months' rent",
+          "holding deposit": "No separate rule",
+          "protection": "Approved scheme within 30 working days of the tenancy starting",
+          "sources": [
+            {
+              "title": "Rent (Scotland) Act 1984, s90",
+              "url": "https://www.legislation.gov.uk/ukpga/1984/58/section/90"
+            },
+            {
+              "title": "SSI 2011/176, reg 3",
+              "url": "https://www.legislation.gov.uk/ssi/2011/176/regulation/3"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/tenancy-deposits-scotland"
+            }
+          ]
+        },
+        {
+          "nation": "Northern Ireland",
+          "deposit cap": "1 month's rent, in money",
+          "holding deposit": "No separate rule",
+          "protection": "Approved scheme within 28 days; information within 35 days",
+          "sources": [
+            {
+              "title": "Private Tenancies (NI) Order 2006, art 5ZC",
+              "url": "https://www.legislation.gov.uk/nisi/2006/1459/article/5ZC"
+            },
+            {
+              "title": "art 5B",
+              "url": "https://www.legislation.gov.uk/nisi/2006/1459/article/5B"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/tenancy-deposits-northern-ireland"
+            }
+          ]
+        }
+      ]
+    },
+    "rent": {
+      "title": "Rent increases",
+      "rows": [
+        {
+          "nation": "England",
+          "how": "Section 13 notice in the prescribed form; a rent review clause has no effect",
+          "notice": "At least 2 months, starting at the beginning of a rent period",
+          "how often": "No sooner than 52 weeks after the tenancy began or the last increase",
+          "sources": [
+            {
+              "title": "Housing Act 1988, s13",
+              "url": "https://www.legislation.gov.uk/ukpga/1988/50/section/13"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/section-13-rent-increase-england"
+            }
+          ]
+        },
+        {
+          "nation": "Scotland",
+          "how": "Rent-increase notice in the prescribed form; capped only in a rent control area",
+          "notice": "At least 3 months",
+          "how often": "Once in any 12 months",
+          "sources": [
+            {
+              "title": "Private Housing (Tenancies) (Scotland) Act 2016, s22",
+              "url": "https://www.legislation.gov.uk/asp/2016/19/section/22"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/rent-increases-scotland"
+            }
+          ]
+        }
+      ]
+    },
+    "ending": {
+      "title": "Ending a tenancy",
+      "rows": [
+        {
+          "nation": "England",
+          "landlord": "Section 21 'no fault' notices abolished from 1 May 2026; possession needs a valid ground",
+          "tenant": "2 months' notice on an assured periodic tenancy",
+          "sources": [
+            {
+              "title": "Renters' Rights Act 2025 roadmap",
+              "url": "https://www.gov.uk/government/publications/renters-rights-act-2025-implementation-roadmap/implementing-the-renters-rights-act-2025-our-roadmap-for-reforming-the-private-rented-sector"
+            },
+            {
+              "title": "checker",
+              "url": "https://contractlily.com/tools/notice-period-check"
+            }
+          ]
+        },
+        {
+          "nation": "Wales",
+          "landlord": "At least 6 months' notice without a reason, not in the first 6 months",
+          "tenant": "4 weeks' notice on a periodic contract",
+          "sources": [
+            {
+              "title": "Renting Homes (Wales) Act 2016, s173",
+              "url": "https://www.legislation.gov.uk/anaw/2016/1/section/173"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/landlord-notice-wales"
+            }
+          ]
+        },
+        {
+          "nation": "Scotland",
+          "landlord": "Notice to leave of 28 days (6 months' residence or less, or conduct grounds) or 84 days, then a Tribunal eviction order",
+          "tenant": "28 days' written notice",
+          "sources": [
+            {
+              "title": "Private Housing (Tenancies) (Scotland) Act 2016, s54",
+              "url": "https://www.legislation.gov.uk/asp/2016/19/section/54"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/notice-to-leave-scotland"
+            }
+          ]
+        },
+        {
+          "nation": "Northern Ireland",
+          "landlord": "4 weeks (12 months or less), 8 weeks (up to 10 years), 12 weeks after that",
+          "tenant": "4 weeks, or 12 weeks after 10 years",
+          "sources": [
+            {
+              "title": "Private Tenancies (NI) Order 2006, art 14",
+              "url": "https://www.legislation.gov.uk/nisi/2006/1459/article/14"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/notice-to-quit-northern-ireland"
+            }
+          ]
+        }
+      ]
+    },
+    "fees": {
+      "title": "Tenancy fees",
+      "rows": [
+        {
+          "nation": "England",
+          "rule": "Only rent, a capped deposit and holding deposit, two kinds of default payment and a few named costs; setup, referencing, inventory, check-out and renewal fees are banned",
+          "sources": [
+            {
+              "title": "Tenant Fees Act 2019, s1",
+              "url": "https://www.legislation.gov.uk/ukpga/2019/4/section/1"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/tenancy-fees-england"
+            }
+          ]
+        },
+        {
+          "nation": "Wales",
+          "rule": "Only rent, deposits, certain default payments and some bills; late rent charges not within 7 days and capped at 3% above base rate",
+          "sources": [
+            {
+              "title": "Renting Homes (Fees etc.) (Wales) Act 2019, s2",
+              "url": "https://www.legislation.gov.uk/anaw/2019/2/section/2"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/tenancy-fees-wales"
+            }
+          ]
+        },
+        {
+          "nation": "Scotland",
+          "rule": "Any payment beyond rent and a deposit of up to 2 months' rent is an unlawful premium",
+          "sources": [
+            {
+              "title": "Rent (Scotland) Act 1984, s82",
+              "url": "https://www.legislation.gov.uk/ukpga/1984/58/section/82"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/tenancy-fees-scotland"
+            }
+          ]
+        }
+      ]
+    },
+    "pay": {
+      "title": "Minimum wage",
+      "rows": [
+        {
+          "age or status": "21 and over",
+          "hourly rate": "£12.71",
+          "sources": [
+            {
+              "title": "GOV.UK rates",
+              "url": "https://www.gov.uk/national-minimum-wage-rates"
+            },
+            {
+              "title": "National Minimum Wage Act 1998, s1",
+              "url": "https://www.legislation.gov.uk/ukpga/1998/39/section/1"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/minimum-wage"
+            }
+          ]
+        },
+        {
+          "age or status": "18 to 20",
+          "hourly rate": "£10.85"
+        },
+        {
+          "age or status": "Under 18, and apprentices under 19 or in their first year",
+          "hourly rate": "£8.00"
+        }
+      ]
+    },
+    "holiday": {
+      "title": "Holiday",
+      "rows": [
+        {
+          "where": "England and Wales",
+          "entitlement": "5.6 weeks, max 28 days",
+          "bank holidays in 2027": "8",
+          "sources": [
+            {
+              "title": "Working Time Regulations 1998, regs 13, 13A",
+              "url": "https://www.legislation.gov.uk/uksi/1998/1833/regulation/13"
+            }
+          ]
+        },
+        {
+          "where": "Scotland",
+          "entitlement": "5.6 weeks, max 28 days",
+          "bank holidays in 2027": "9"
+        },
+        {
+          "where": "Northern Ireland",
+          "entitlement": "5.6 weeks, max 28 days",
+          "bank holidays in 2027": "10",
+          "sources": [
+            {
+              "title": "Working Time Regulations (NI) 2016, regs 15, 16",
+              "url": "https://www.legislation.gov.uk/nisr/2016/49/regulation/15"
+            }
+          ]
+        }
+      ]
+    },
+    "notice": {
+      "title": "Notice to end a job",
+      "rows": [
+        {
+          "who": "Employer",
+          "statutory minimum": "1 week after a month's service; from 2 years, 1 week per complete year, up to 12 weeks",
+          "sources": [
+            {
+              "title": "Employment Rights Act 1996, s86",
+              "url": "https://www.legislation.gov.uk/ukpga/1996/18/section/86"
+            },
+            {
+              "title": "ER (NI) Order 1996, art 118",
+              "url": "https://www.legislation.gov.uk/nisi/1996/1919/article/118"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/employment-notice-periods"
+            }
+          ]
+        },
+        {
+          "who": "Employee",
+          "statutory minimum": "1 week after a month's service"
+        }
+      ]
+    },
+    "dismissal": {
+      "title": "Unfair dismissal qualifying period",
+      "rows": [
+        {
+          "where": "England, Wales and Scotland",
+          "qualifying period": "2 years; 6 months where employment ends on or after 1 January 2027, when the compensation cap is also removed",
+          "sources": [
+            {
+              "title": "Employment Rights Act 2025, s25",
+              "url": "https://www.legislation.gov.uk/ukpga/2025/36/section/25"
+            },
+            {
+              "title": "SI 2026/559, reg 4",
+              "url": "https://www.legislation.gov.uk/uksi/2026/559/regulation/4"
+            },
+            {
+              "title": "guide",
+              "url": "https://contractlily.com/guides/unfair-dismissal-2027"
+            }
+          ]
+        },
+        {
+          "where": "Northern Ireland",
+          "qualifying period": "1 year",
+          "sources": [
+            {
+              "title": "ER (NI) Order 1996, art 140",
+              "url": "https://www.legislation.gov.uk/nisi/1996/1919/article/140"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
